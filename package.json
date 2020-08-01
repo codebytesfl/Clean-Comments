@@ -1,6 +1,6 @@
 {
 	"name": "ccomment",
-	"displayName": "Clean Comment",
+	"displayName": "Clean Comments",
 	"description": "Make clean comment blocks for most languages in VSCode.",
 	"version": "1.0.0",
 	"publisher": "codebytesfl",

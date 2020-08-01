@@ -6,7 +6,6 @@
   Clean Comments
 </h1>
 
-----
 ## Features
 
 Writing code is like writing a book. You want to write code with the idea that others will read your code. Use this extension to help visualize and logically break up your code. Make it easier for you or future developers to read and understand your code. 
@@ -69,5 +68,9 @@ You are able to configure the comment blocks to however you'd like. You can chan
 ## Release Notes
 
 See changelog.md
+
+## License
+
+See LICENSE
 
 

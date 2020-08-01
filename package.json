@@ -4,6 +4,8 @@
 	"description": "Make clean comment blocks for most languages in VSCode.",
 	"version": "1.0.0",
 	"publisher": "codebytesfl",
+	"icon": "logo.png",
+	"license": "MIT",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/codebytesfl/Clean-Comments.git"
